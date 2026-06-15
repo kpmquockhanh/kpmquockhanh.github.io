@@ -1,0 +1,44 @@
+title: Quoc Khanh LUU
+email: kpmquockhanh@gmail.com
+url: https://kpmquockhanh.github.io
+
+# GitHub Pages repository
+repository: kpmquockhanh/kpmquockhanh.github.io
+
+# Disable Jekyll theme (we are using a custom built site)
+theme: null
+
+# Exclude files from Jekyll processing
+# This prevents Jekyll from trying to process our Vite/Vue source files
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - vite.config.js
+  - src/
+  - cv.yaml
+  - .gitignore
+  - README.md
+  - .vscode/
+  - .idea/
+
+# Keep the dist folder in the built site
+# (GitHub Actions will deploy the dist folder contents)
+include:
+  - dist/
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+
+# Timezone
+timezone: Australia/Sydney
+
+# Build settings
+future: false
