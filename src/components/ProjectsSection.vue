@@ -53,8 +53,8 @@ const projects = [
   },
   {
     title: 'Hanie English',
-    description: 'A static HTML page for English learning content. Simple and focused design for educational material presentation.',
-    tags: ['HTML', 'CSS', 'Education', 'Web'],
+    description: 'Full-featured English learning platform built with Laravel. Features integrated REST APIs, Blade templating with reusable components, and dynamic content management for educational materials.',
+    tags: ['PHP', 'Laravel', 'Blade', 'REST API', 'MySQL'],
     github: 'https://github.com/kpmquockhanh/hanie-english',
     demo: null,
     featured: false

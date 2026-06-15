@@ -83,35 +83,53 @@ cv:
         details: Problem Solving, Attention to Detail, IELTS, Agile/Scrum
     
     projects:
-      - name: Go Microservices Starter
+      - name: Gemini Telegram Bot
         highlights:
-          - "Built a Go microservices boilerplate with Docker and Kubernetes support"
-          - "Implemented service discovery, API gateway, and distributed tracing"
-          - "GitHub: https://github.com/kpmquockhanh/go-starter"
-      
-      - name: Telegram Bot (Go)
-        highlights:
-          - "Developed a Telegram bot using Go with Gemini AI integration"
-          - "Implemented real-time messaging and automated responses"
+          - "AI-powered Telegram chatbot integrating Google's Gemini API for intelligent conversations"
+          - "Built with Go for high-performance message handling and concurrent user sessions"
           - "GitHub: https://github.com/kpmquockhanh/gemini-telegram"
       
-      - name: Laravel Ecommerce
+      - name: CookMate App
         highlights:
-          - "Built a full-featured ecommerce platform with Laravel and Vue.js"
-          - "Implemented payment integration, inventory management, and admin dashboard"
-          - "GitHub: https://github.com/kpmquockhanh/laravel-ecommerce-shop"
-      
-      - name: Node.js API Boilerplate
-        highlights:
-          - "Created a production-ready Node.js API boilerplate with authentication"
-          - "Included Docker support, testing setup, and CI/CD configuration"
-          - "GitHub: https://github.com/kpmquockhanh/nodejs-api-boilerplate"
-      
-      - name: React Native Cook App
-        highlights:
-          - "Built a mobile cooking app using React Native and TypeScript"
-          - "Implemented recipe management, shopping lists, and meal planning"
+          - "Cross-platform mobile cooking application built with React Native and TypeScript"
+          - "Features recipe management, meal planning, and grocery list generation"
           - "GitHub: https://github.com/kpmquockhanh/cook-mate-rn"
+      
+      - name: CircArts
+        highlights:
+          - "Creative arts and digital content platform showcasing artistic projects"
+          - "Built with JavaScript for modern web experiences"
+          - "GitHub: https://github.com/kpmquockhanh/circarts-project"
+      
+      - name: Shopee E-Commerce Tool
+        highlights:
+          - "Automation tools for Shopee marketplace operations"
+          - "Product listing, price monitoring, and order management via Shopee Open API"
+          - "GitHub: https://github.com/kpmquockhanh/shopee-tool"
+      
+      - name: Simple Microservices (Go)
+        highlights:
+          - "Microservices architecture demonstration built with Go"
+          - "Features service discovery, inter-service communication, and Docker containerization"
+          - "GitHub: https://github.com/kpmquockhanh/simple-microservice-go"
+      
+      - name: TodoList App
+        highlights:
+          - "Clean and functional todo list application built with JavaScript"
+          - "Task management, categorization, and progress tracking"
+          - "GitHub: https://github.com/kpmquockhanh/Todolist-KHANHLQ"
+      
+      - name: Hanie English
+        highlights:
+          - "Full-featured English learning platform built with Laravel"
+          - "Features integrated REST APIs, Blade templating with reusable components, and dynamic content management"
+          - "GitHub: https://github.com/kpmquockhanh/hanie-english"
+      
+      - name: Sudoku Game
+        highlights:
+          - "Interactive Sudoku puzzle game built with JavaScript"
+          - "Features puzzle generation, difficulty levels, and clean UI"
+          - "GitHub: https://github.com/kpmquockhanh/Sodoku"
 
 design:
   theme: engineeringresumes
