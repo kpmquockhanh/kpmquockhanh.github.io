@@ -98,8 +98,9 @@ cv:
       
       - name: CircArts
         highlights:
-          - "Creative arts and digital content platform showcasing artistic projects"
-          - "Built with JavaScript for modern web experiences"
+          - "Full-stack educational platform built with Node.js backend and Vue 3 frontend"
+          - "Features a complex skill builder with disciplines, hierarchical skill trees, and student rating/evaluation systems"
+          - "Includes progress tracking and dynamic skill assessment for students"
           - "GitHub: https://github.com/kpmquockhanh/circarts-project"
       
       - name: Shopee E-Commerce Tool

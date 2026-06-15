@@ -21,8 +21,8 @@ const projects = [
   },
   {
     title: 'CircArts',
-    description: 'Creative arts and digital content platform. Built with JavaScript to showcase artistic projects and creative works.',
-    tags: ['JavaScript', 'Web', 'Creative', 'Frontend'],
+    description: 'Full-stack educational platform built with Node.js backend and Vue 3 frontend. Features a complex skill builder with disciplines, hierarchical skill trees, student rating and evaluation systems, and progress tracking.',
+    tags: ['Node.js', 'Vue 3', 'Full-Stack', 'Education', 'Skill Builder'],
     github: 'https://github.com/kpmquockhanh/circarts-project',
     demo: null,
     featured: true
