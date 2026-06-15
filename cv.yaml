@@ -92,7 +92,8 @@ cv:
       - name: CookMate App
         highlights:
           - "Cross-platform mobile cooking application built with React Native and TypeScript"
-          - "Features recipe management, meal planning, and grocery list generation"
+          - "Features AI-powered hands-free voice interactions for recipe navigation and cooking guidance"
+          - "Includes recipe management, meal planning, and grocery list generation"
           - "GitHub: https://github.com/kpmquockhanh/cook-mate-rn"
       
       - name: CircArts
@@ -128,7 +129,8 @@ cv:
       - name: Sudoku Game
         highlights:
           - "Interactive Sudoku puzzle game built with JavaScript"
-          - "Features puzzle generation, difficulty levels, and clean UI"
+          - "Implements backtracking algorithm for puzzle generation and auto-solving"
+          - "Features multiple difficulty levels, validation, and clean UI"
           - "GitHub: https://github.com/kpmquockhanh/Sodoku"
 
 design:

@@ -13,8 +13,8 @@ const projects = [
   },
   {
     title: 'CookMate App',
-    description: 'Cross-platform mobile cooking application built with React Native and TypeScript. Features recipe management, meal planning, and grocery list generation.',
-    tags: ['React Native', 'TypeScript', 'Mobile', 'iOS', 'Android'],
+    description: 'Cross-platform mobile cooking application built with React Native and TypeScript. Features AI-powered hands-free voice interactions for recipe navigation, step-by-step cooking guidance, and ingredient management. Includes recipe management, meal planning, and grocery list generation.',
+    tags: ['React Native', 'TypeScript', 'AI', 'Voice Recognition', 'Mobile', 'iOS', 'Android'],
     github: 'https://github.com/kpmquockhanh/cook-mate-rn',
     demo: null,
     featured: true
@@ -61,8 +61,8 @@ const projects = [
   },
   {
     title: 'Sudoku Game',
-    description: 'Interactive Sudoku puzzle game built with JavaScript. Features puzzle generation, difficulty levels, and a clean user interface.',
-    tags: ['JavaScript', 'Game', 'Puzzle', 'Frontend'],
+    description: 'Interactive Sudoku puzzle game built with JavaScript demonstrating the backtracking algorithm for puzzle generation and solving. Features multiple difficulty levels, validation, and a clean user interface.',
+    tags: ['JavaScript', 'Algorithm', 'Backtracking', 'Game', 'Puzzle'],
     github: 'https://github.com/kpmquockhanh/Sodoku',
     demo: null,
     featured: false
