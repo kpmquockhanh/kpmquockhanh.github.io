@@ -14,7 +14,7 @@ import LinkedInIcon from './icons/LinkedInIcon.vue'
         Quoc Khanh LUU
       </h1>
       <p class="text-xl sm:text-2xl text-secondary mb-8">
-        Web Full-stack Developer at OpenCommerce Group
+        Full-stack Developer | Open to New Opportunities
       </p>
       <p class="text-base text-secondary/80 max-w-2xl mx-auto mb-10 leading-relaxed">
         Experienced developer with expertise in Go, PHP (Laravel), Vue.js, Node.js, TypeScript, and MySQL.

@@ -3,6 +3,14 @@ import { Calendar, MapPin, Building2 } from '@lucide/vue'
 
 const experiences = [
   {
+    title: 'Open to Opportunities',
+    company: 'Seeking New Role',
+    location: 'Sydney, Australia',
+    period: 'Mar 2024 - Present',
+    description: 'Currently pursuing Master\'s in Information Technology at King\'s Own Institute, Sydney. Available for full-time, part-time, or remote development opportunities. Open to roles in backend development, full-stack engineering, or cloud infrastructure.',
+    technologies: ['Go', 'PHP', 'Vue.js', 'Node.js', 'MySQL', 'Docker', 'Kubernetes', 'AWS']
+  },
+  {
     title: 'Full Stack Engineer',
     company: 'OpenCommerce Group',
     location: 'Hanoi, Vietnam',

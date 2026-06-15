@@ -1,6 +1,6 @@
 cv:
   name: Quoc Khanh LUU
-  location: Cabramatta West, NSW, Australia
+  location: Marrickville, NSW 2204
   email: kpmquockhanh@gmail.com
   website: https://kpmquockhanh.github.io
   social_networks:
@@ -29,6 +29,16 @@ cv:
           - "Deployed and managed Docker containers and Kubernetes clusters for production environments"
           - "Implemented CI/CD pipelines reducing deployment time by 40%"
           - "Collaborated with cross-functional teams using Agile/Scrum methodologies"
+      
+      - company: Currently Open to Opportunities
+        position: Seeking New Role
+        location: Sydney, Australia
+        start_date: 2024-03
+        end_date: present
+        highlights:
+          - "Relocated to Sydney, Australia to pursue Master's degree in Information Technology"
+          - "Available for full-time, part-time, or remote development opportunities"
+          - "Open to roles in backend development, full-stack engineering, or cloud infrastructure"
 
       - company: HBLAB Joint Stock Company
         position: Developer

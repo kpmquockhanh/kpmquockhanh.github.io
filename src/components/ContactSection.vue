@@ -85,7 +85,7 @@ const contactLinks = [
       <div class="mt-16 pt-8 border-t border-border text-center">
         <p class="text-sm text-secondary flex items-center justify-center gap-1">
           <MapPin class="w-4 h-4" />
-          Cabramatta West, NSW, Australia · Available for remote work worldwide
+          Marrickville, NSW 2204 · Available for remote work worldwide
         </p>
         <p class="text-xs text-secondary/60 mt-2">
           Built with Vue.js 3, Tailwind CSS, and Vite
