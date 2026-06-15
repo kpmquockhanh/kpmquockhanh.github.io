@@ -1,0 +1,117 @@
+cv:
+  name: Quoc Khanh LUU
+  location: Cabramatta West, NSW, Australia
+  email: kpmquockhanh@gmail.com
+  website: https://kpmquockhanh.github.io
+  social_networks:
+    - network: LinkedIn
+      username: kpmquockhanh
+    - network: GitHub
+      username: kpmquockhanh
+  
+  sections:
+    summary:
+      - "Full-stack developer with 6+ years of experience in backend systems, microservices, and web applications."
+      - "Currently completing Master's in Information Technology at King's Own Institute, Sydney."
+      - "Expert in Go, PHP (Laravel), Vue.js, and Node.js. Experienced in Docker, Kubernetes, and AWS."
+      - "Passionate about building automation tools and scalable solutions."
+    
+    experience:
+      - company: OpenCommerce Group
+        position: Full Stack Engineer
+        location: Hanoi, Vietnam
+        start_date: 2020-10
+        end_date: 2024-02
+        highlights:
+          - "Developed and maintained large-scale ecommerce microservices architecture using Go and PHP (Laravel)"
+          - "Built frontend interfaces with Vue.js and backend APIs with Node.js handling thousands of transactions"
+          - "Managed MySQL and MongoDB databases with query optimization and sharding strategies"
+          - "Deployed and managed Docker containers and Kubernetes clusters for production environments"
+          - "Implemented CI/CD pipelines reducing deployment time by 40%"
+          - "Collaborated with cross-functional teams using Agile/Scrum methodologies"
+
+      - company: HBLAB Joint Stock Company
+        position: Developer
+        location: Vietnam
+        start_date: 2018-12
+        end_date: 2020-10
+        highlights:
+          - "Developed and maintained web applications using PHP, Vue.js, and JavaScript"
+          - "Designed and optimized MySQL database schemas for high-traffic applications"
+          - "Built RESTful APIs and integrated third-party services"
+          - "Implemented responsive frontend designs with HTML/CSS and Tailwind CSS"
+
+      - company: VNP Group
+        position: Web Developer
+        location: Vietnam
+        start_date: 2018-01
+        end_date: 2018-07
+        highlights:
+          - "Built and maintained web applications using PHP, MySQL, and JavaScript"
+          - "Developed responsive frontend interfaces with jQuery and HTML/CSS"
+          - "Gained hands-on experience with full-stack development and database management"
+    
+    education:
+      - institution: King's Own Institute
+        area: Information Technology
+        degree: Master's
+        start_date: 2024
+        end_date: 2026
+        highlights:
+          - "Currently pursuing Master's in Information Technology in Sydney, Australia"
+      
+      - institution: Hanoi University of Industry
+        area: Computer Software Engineering
+        degree: Bachelor's
+        start_date: 2015
+        end_date: 2019
+        highlights:
+          - "Completed Bachelor's degree in Computer Software Engineering"
+    
+    skills:
+      - label: Languages
+        details: Go, PHP, JavaScript, TypeScript, SQL
+      - label: Frameworks
+        details: Laravel, Vue.js, Node.js, React Native
+      - label: Databases
+        details: MySQL, MongoDB, Redis, Query Optimization
+      - label: DevOps
+        details: Docker, Kubernetes, AWS, CI/CD, Linux
+      - label: Tools
+        details: Git, GitHub, Command Line, Automation
+      - label: Soft Skills
+        details: Problem Solving, Attention to Detail, IELTS, Agile/Scrum
+    
+    projects:
+      - name: Go Microservices Starter
+        highlights:
+          - "Built a Go microservices boilerplate with Docker and Kubernetes support"
+          - "Implemented service discovery, API gateway, and distributed tracing"
+          - "GitHub: https://github.com/kpmquockhanh/go-starter"
+      
+      - name: Telegram Bot (Go)
+        highlights:
+          - "Developed a Telegram bot using Go with Gemini AI integration"
+          - "Implemented real-time messaging and automated responses"
+          - "GitHub: https://github.com/kpmquockhanh/gemini-telegram"
+      
+      - name: Laravel Ecommerce
+        highlights:
+          - "Built a full-featured ecommerce platform with Laravel and Vue.js"
+          - "Implemented payment integration, inventory management, and admin dashboard"
+          - "GitHub: https://github.com/kpmquockhanh/laravel-ecommerce-shop"
+      
+      - name: Node.js API Boilerplate
+        highlights:
+          - "Created a production-ready Node.js API boilerplate with authentication"
+          - "Included Docker support, testing setup, and CI/CD configuration"
+          - "GitHub: https://github.com/kpmquockhanh/nodejs-api-boilerplate"
+      
+      - name: React Native Cook App
+        highlights:
+          - "Built a mobile cooking app using React Native and TypeScript"
+          - "Implemented recipe management, shopping lists, and meal planning"
+          - "GitHub: https://github.com/kpmquockhanh/cook-mate-rn"
+
+design:
+  theme: engineeringresumes
